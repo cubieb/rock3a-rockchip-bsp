@@ -1,15 +1,15 @@
 [submodule "build"]
 	path = build
-	url = ../build.git
+	url = ../rock3a-build.git
 [submodule "rkbin"]
 	path = rkbin
-	url = ../rkbin.git
+	url = ../rock3a-rkbin.git
 [submodule "u-boot"]
 	path = u-boot
-	url = ../u-boot.git
+	url = ../rock3a-u-boot.git
 [submodule "rootfs"]
 	path = rootfs
-	url = ../rk-rootfs-build.git
+	url = ../rock3a-rk-rootfs-build.git
 [submodule "kernel"]
 	path = kernel
-	url = ../kernel.git
+	url = ../rock3a-kernel.git
